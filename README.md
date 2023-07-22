@@ -6,7 +6,7 @@ This repository contains all the code nessecary to create your own version of ht
 ### Quickstart
 To get your search engine running quickly on a single Linux host:
  1. Install Docker with Docker Compose
- 2. Run `docker compose build; docker compose up`
+ 2. Run `docker-compose build; docker-compose up`
  3. Run `bash start.sh`
  4. Visit `http://your-ip:3000`
 
